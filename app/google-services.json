@@ -1,0 +1,94 @@
+{
+  "project_info": {
+    "project_number": "578968640853",
+    "firebase_url": "https://kawasaki-community-1c4fb.firebaseio.com",
+    "project_id": "kawasaki-community-1c4fb",
+    "storage_bucket": "kawasaki-community-1c4fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578968640853:android:2bf44915d6e4d1aa",
+        "android_client_info": {
+          "package_name": "com.kawasakicommunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578968640853-2fij95a9kc8esndhualj6ahmqqv65896.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kawasakicommunity",
+            "certificate_hash": "4f4ee6e71e50b8b11ad30f3092b27299c468d6b0"
+          }
+        },
+        {
+          "client_id": "578968640853-ti8cjifn12gptdgnald65npl71o3bklg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kawasakicommunity",
+            "certificate_hash": "b93214f05cd89cf73e3ee6b17d2e557ce76baccd"
+          }
+        },
+        {
+          "client_id": "578968640853-mdj21hu14gpuragsjs3c17bmh79u1sk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARQv97DaIFGAaqNdMLhJ4VlG_RUnVDngY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578968640853-mdj21hu14gpuragsjs3c17bmh79u1sk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578968640853:android:38ab5e6360281f5f",
+        "android_client_info": {
+          "package_name": "com.webskitters.stripesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578968640853-mdj21hu14gpuragsjs3c17bmh79u1sk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARQv97DaIFGAaqNdMLhJ4VlG_RUnVDngY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
